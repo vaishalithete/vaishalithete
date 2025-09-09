@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on MERN Project  
 - 🌱 I’m curently learning MERN Stack 
 - 💡 Interests: Web Development   
-- 📫 How to reach me: [LinkedIn link] | [Email]  
+- 📫 How to reach me: [LinkedIn link] 
 
 ## Skills
 - Languages: C, C++, Python, SQL  
@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 ## Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vaishali-thete-a2b16623a/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://github.com/vaishalithete))
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://github.com/vaishalithete)
