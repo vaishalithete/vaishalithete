@@ -1,12 +1,12 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **vaishalithete/vaishalithete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on MERN Project
+- 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -18,15 +18,18 @@ Here are some ideas to get you started:
 # Hi 👋, I'm Vaishali  
 🎓 IT Student | 💻 Web Developer | 🚀 Learning React.js  
 
-- 🔭 I’m currently working on [Project Name]  
-- 🌱 I’m learning React.js, MongoDB, and Python projects  
-- 💡 Interests: Web Development, AI-based apps, Cybersecurity  
+- 🔭 I’m currently working on MERN Project  
+- 🌱 I’m curently learning MERN Stack 
+- 💡 Interests: Web Development   
 - 📫 How to reach me: [LinkedIn link] | [Email]  
 
 ## Skills
-- Programming: C++, Python, JavaScript  
-- Web: HTML, CSS, React.js, Express.js, MongoDB  
-- Tools: Git, GitHub, Canva, Tableau  
+- Languages: C, C++, Python, SQL  
+- Web Technologies: HTML, CSS, JavaScript
+- Framework: BootStrap
+- Developers Tools: Git, VSCode, GitHub, Canva
+- Programming Concepts: DSA, OOPs
+- Database System: MySQL
 
 ## Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](Your_Linkedin_Link)  
