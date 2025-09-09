@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi 👋, I'm Vaishali Thete 
-🎓 IT Student | 💻 Web Developer | 🚀 Learning MERN  
+🎓 IT Student | 💻 Web Developer | 🚀 Learning MERN Stack 
 
 - 🔭 I’m currently working on MERN Project  
 - 🌱 I’m curently learning MERN Stack 
@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 - Database System: MySQL
 
 ## Connect with me  
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](Your_Linkedin_Link](https://www.linkedin.com/in/vaishali-thete-a2b16623a/))  
-[![Portfolio]([https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](Your_Portfolio_Link](https://github.com/vaishalithete))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vaishali-thete-a2b16623a/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://github.com/vaishalithete))
