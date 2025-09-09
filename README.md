@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi 👋, I'm Vaishali  
+🎓 IT Student | 💻 Web Developer | 🚀 Learning React.js  
+
+- 🔭 I’m currently working on [Project Name]  
+- 🌱 I’m learning React.js, MongoDB, and Python projects  
+- 💡 Interests: Web Development, AI-based apps, Cybersecurity  
+- 📫 How to reach me: [LinkedIn link] | [Email]  
+
+## Skills
+- Programming: C++, Python, JavaScript  
+- Web: HTML, CSS, React.js, Express.js, MongoDB  
+- Tools: Git, GitHub, Canva, Tableau  
+
+## Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](Your_Linkedin_Link)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](Your_Portfolio_Link)  
